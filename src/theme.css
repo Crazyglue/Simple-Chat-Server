@@ -1,0 +1,56 @@
+#vb_main {
+	-fx-background-color: gray;
+}
+#hb_menu {
+	-fx-width: 100%;
+}
+#menu_main {
+	-fx-width: 100%;
+	
+}
+#hb_info {
+	-fx-padding-left: 10;
+        -fx-vpos: center;
+}
+#info_name {
+	-fx-font-family: "Tahoma";
+	-fx-font-size: 28px;
+	-fx-text-alignment: left;
+        -fx-alignment: CENTER_LEFT;
+}
+#info_pic {
+	-fx-padding: 20px;
+	-fx-max-width: 100px;
+	-fx-max-height: 100px;
+	-fx-min-width: 100px;
+	-fx-min-height: 100px;
+}
+#hb_log {
+	-fx-width: 100%;
+	-fx-margin-left: 30px;
+	-fx-margin-right: 30px;
+}
+#log_name {
+	-fx-max-width: 300px;
+	-fx-min-width: 200px;
+	-fx-text-alignment: right;
+        -fx-alignment: CENTER_RIGHT;
+}
+#log_message {
+	
+}
+.text-area {
+	-fx-font-size: 16px;
+	-fx-font-family: "Tahoma";
+	-fx-highlight-fill: null;
+	-fx-background-color: gray;
+}
+#hb_message {
+	
+}
+#message_message {
+	
+}
+#message_button {
+	
+}
